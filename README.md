@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning HTML/CSS
+- 🌱 Data analytics
 ##
 
 
