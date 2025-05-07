@@ -14,3 +14,5 @@ If you want to see automatization programs i did using app script, following the
 The other repositories containing Python programs are basically about everything, just to practice my coding skills;
 
 
+I’m fluent in Portuguese, English, and Spanish. Feel free to connect with me on LinkedIn.
+
